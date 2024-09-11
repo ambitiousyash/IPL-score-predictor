@@ -51,11 +51,11 @@ DESCRIPTION:
   shows the anticipated score.
 
 LIBRARIES:
-  NumPy
-  Pandas
-  Scikit-learn
-  Matplotlib
-  Keras
+  NumPy,
+  Pandas,
+  Scikit-learn,
+  Matplotlib,
+  Keras,
   Seaborn
 
 TECHNOLOGY USED:Machine Learning,Deep Learning,TensorFlow.  
